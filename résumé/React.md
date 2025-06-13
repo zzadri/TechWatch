@@ -1,4 +1,91 @@
-# React avec Vite
+# React with Vite / React avec Vite
+
+## Sources:
+
+-   [Gamma - Become a Frontend Pro with React](https://gamma.app/docs/Devenez-un-pro-du-frontend-avec-React--w5lhk2yp0all3hc?mode=doc)
+-   [Medium - Understanding Vite Flow and Structure in a React Project](https://medium.com/@vshall/understanding-vite-flow-and-structure-in-a-react-project-8c8672d62a77)
+-   [Medium - How to Structure Folders in Your React Application](https://simeonnortey.medium.com/how-to-structure-folders-in-your-react-application-567ddad3bd7e)
+-   [Stack Ademic - Crafting the Perfect React Project: A Comprehensive Guide to Directory Structure](https://blog.stackademic.com/crafting-the-perfect-react-project-a-comprehensive-guide-to-directory-structure-and-essential-9bb0e32ba7aa)
+-   [YouTube - React Project Structure](https://www.youtube.com/watch?v=KCrXgy8qtjM)
+
+# EN
+
+## Summary:
+
+### Getting Started Right:
+
+Vite launches the project in seconds, updates the page automatically when code
+changes (HMR), and prepares an optimized file for deployment. The index.html
+file points directly to main.jsx or main.tsx, making the program entry point
+very clear.
+
+### Organizing Files by Feature:
+
+Instead of having a giant "components" folder, create a folder for each feature
+(login, cart, etc.). In each folder, put the code, tests, style, and even local
+database if needed. Keep only a few "general" folders like components (reusable
+everywhere) or assets (images).
+
+### Keeping Code Clean Automatically
+
+Three tools run before each Git submission:
+
+-   Prettier reformats
+-   ESLint flags errors
+-   Husky verifies everything before validating the commit
+
+We also add "aliases" (@/components/Button) to avoid complicated paths like
+../../../components/Button.
+
+### Choosing Small Key Libraries
+
+-   **Zustand**: manages global state with very little code
+-   **React Query**: handles API calls and keeps data in cache, which avoids
+    rewriting the same requests
+
+Complete with react-router-dom for pages and an interface kit (for example
+shadcn/ui or Material UI) if the project grows.
+
+### Working Method
+
+The Gamma slides and the video remind: start simple, write some tests from the
+beginning, and note in a small file "why" each architecture decision was made.
+This helps newcomers (or yourself in six months) understand the project.
+
+## Advice Received:
+
+-   **Choose Vite + TypeScript from the start**: compilation time divided,
+    almost no config
+-   **Organize by "features"**: each module is autonomous, making it easier to
+    cut or refactor
+-   **Set up Prettier/ESLint/Husky** on day one to avoid style divergences
+-   **Import aliases**: @/… in Vite + TS to ban ../../../...
+-   **Couple Zustand (UI) & React-Query (server-state)**: clearly separate what
+    comes from the server from the rest
+-   **Document the tree structure** (README or diagram) and test critical
+    folders as soon as they appear
+
+## Opinion:
+
+Putting it all together, React is great for a web app. With Vite and TypeScript,
+it is quite fast to set up a quick and functional structure. Additionally, by
+adding packages like ESLint, it's easy to see errors even before running the
+app.
+
+## Example:
+
+### React Vite Project Structure
+
+![alt text](../image/source1.png "Logo Title Text 1")
+![alt text](../image/source2.png "Logo Title Text 1")
+
+### Command to Create a Project:
+
+```
+npm create vite@latest my-app -- --template react-ts
+```
+
+# FR
 
 ## Source :
 

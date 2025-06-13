@@ -1,5 +1,102 @@
 # JSON Web Token (JWT)
 
+## Sources:
+
+-   [Curity - JWT Best Practices](https://curity.io/resources/learn/jwt-best-practices/)
+-   [JWT.io - Introduction](https://jwt.io/introduction)
+-   [PortSwigger - Web Security JWT](https://portswigger.net/web-security/jwt)
+
+## Exercises:
+
+-   JWT - Unsecure File Signature
+-   JWT - Revoked Token
+-   JWT - Weak Secret
+
+## Summary:
+
+### What is a JWT?
+
+A JWT is like a small digital ID card: three pieces of text joined by dots
+(header, data, signature). The server can verify the signature to ensure the JWT
+hasn't been modified. The content, however, remains readable by anyone, so you
+shouldn't put sensitive data in it.
+
+### Essential Best Practices (Curity)
+
+-   Use a secure algorithm (e.g., RS256) and keep the private key out of reach
+-   Limit the lifetime (exp): just a few minutes for an access token
+-   Store only what is truly useful; never include sensitive data
+-   Renew tokens regularly, and provide a way to revoke stolen tokens
+
+### Common Errors and Attacks (PortSwigger)
+
+-   Accepting a token without a signature or with an incorrect algorithm
+    ("none", confusion between HS256/RS256)
+-   Using secrets that are too simple and can be guessed
+-   Allowing users to modify fields like kid or jku to point the server to a
+    malicious key
+-   Transmitting the token without HTTPS and having it intercepted
+
+### How to Protect Yourself
+
+Always verify the signature AND the algorithm, use HTTPS, limit the duration and
+scope (aud, iss) of the token, and maintain a "blacklist" if you need to block a
+token before it expires.
+
+## Opinion:
+
+JWT is an important aspect that allows certifying a user's authenticity if
+properly configured. It is important to implement this system (or an equivalent)
+if there is a login form.
+
+## Example:
+
+### JWT Authentication Flow
+
+![alt text](../image/JWT.png "Logo Title Text 1")
+
+### How to implement the middleware:
+
+```csharp
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+
+// Configuration du middleware JWT
+builder.Services.AddAuthentication(options =>
+{
+    options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+    options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+}).AddJwtBearer(options =>
+{
+    options.TokenValidationParameters = new TokenValidationParameters
+    {
+        ValidateIssuer = true,
+        ValidateAudience = true,
+        ValidateLifetime = true,
+        ValidateIssuerSigningKey = true,
+        ValidIssuer = builder.Configuration["Jwt:Issuer"],
+        ValidAudience = builder.Configuration["Jwt:Audience"],
+        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["Jwt:Key"]))
+    };
+});
+
+// Application du middleware
+app.UseAuthentication();
+app.UseAuthorization();
+```
+
+### JWT Token Structure:
+
+```json
+{
+    "Jwt": {
+        "Key": "xxxxxxxxxxxx",
+        "Issuer": "",
+        "Audience": "",
+        "ExpireMinutes": 60
+    }
+}
+```
+
 ## Source :
 
 -   [Curity - JWT Best Practices](https://curity.io/resources/learn/jwt-best-practices/)
