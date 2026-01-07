@@ -133,25 +133,23 @@ using System.Threading.RateLimiting;
 
 builder.Services.AddRateLimiter(options =>
 {
-    options.GlobalLimiter = PartitionedRateLimiter.CreateHttpContext((string context) =>
+    options.GlobalLimiter = PartitionedRateLimiter.Create<HttpContext, string>(context =>
     {
-        var clientIp = context.Connection.RemoteIpAddress?.ToString() ?? "unknown";
+        var clientIp = context.Connection.RemoteIpAddress?.ToString() ?? "Unknown";
 
-        if (clientIp == "unknown")
+        if (clientIp == "Unknown")
         {
             options.RejectionStatusCode = 400;
-
-            return;
         }
 
-        return RateLimitPartition.GetFixedWindowLimiter(clientIp, partition =>
+        return RateLimitPartition.GetFixedWindowLimiter(clientIp, partitionOptions =>
         {
             return new FixedWindowRateLimiterOptions
             {
-                PermitLimit = int.Parse(builder.Configuration["RateLimiter:PermitLimit"]),
-                Window = TimeSpan.FromMinutes(int.Parse(builder.Configuration["RateLimiter:WaitMinutes"])),
+                PermitLimit = int.Parse(builder.Configuration["RateLimiter:PermitLimit"]!),
+                Window = TimeSpan.FromMinutes(int.Parse(builder.Configuration["RateLimiter:WaitMinutes"]!)),
                 QueueProcessingOrder = QueueProcessingOrder.OldestFirst,
-                QueueLimit = int.Parse(builder.Configuration["RateLimiter:QueueLimit"])
+                QueueLimit = int.Parse(builder.Configuration["RateLimiter:QueueLimit"]!)
             };
         });
     });

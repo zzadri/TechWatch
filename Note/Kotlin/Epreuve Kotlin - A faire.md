@@ -1,0 +1,12 @@
+
+bloc 1 
+- manifest sans warning et avec commentaire pertinant
+- Gradle sans warning et avec commentaire pertinant
+- les versions des dépendances sont dans une section a eux 
+
+bloc 1 
+- Tous les points suivants ont été mis en oeuvre : - Manifest sans warning avec des commentaires explicatifs pertinents. - Gradle sans warning avec des sections clairement démarquées par des commentaires ou des regions. - Les versions des dépendances sont aisément identifiables, leur nommage est pertinent. - Le nommage des resources semble suivre une convention. - Le commentaire lié à l'exploitation d'un des éléments lié au cycle de vie de l'application est clair et informatif. - La fonction d'extension sera couronnée par un commentaire de type `header` dans le style de kotlin syntaxe KDoc, mettant en avant des block tags pertinents. BRAVO et MERCI ! L'expérience du développeur qui viendra derrière vous (moi en l'occurence) sera énormément améliorée grâce à VOUS ! 
+- Tous les points suivants ont été mis en oeuvre : - Manifest propre et pertinent. (Warning interdit) - Gradle organisé de manière lisible et compréhensible. (Warning interdit) - Gestion des versions de dépendances centralisée. - Utilisation systématique des resources et au moins une variante de resource est mise en oeuvre. (dark mode, langue différente...) - Utilisation judicieuse du cycle de vie de l'application (Activity ou Compose). Ce point devra être mis en avant par un commentaire spécifique. - Mise en oeuvre d'une fonction d'extension liée à une des composantes d'un projet Android (ViewModel, Context, Intent)
+bloc 2
+- Tous les points suivants ont été mis en œuvre : - Les fonctions et services sont clairement commentés selon les conventions Kotlin. - Les fonctions sont logiquement découpées et réutilisables. - Le code est structuré de manière à éviter la duplication inutile. - Les noms des fonctions et des variables sont explicites et informatifs. - Les couples DAO/Entity et Service/DTO sont bien définis et séparés. - Des headers KDoc pertinents sont utilisés pour les composants complexes.
+- - Le code est indifférencié, les responsabilités métier sont bien isolées, et chaque composant Domain est structuré pour être réutilisable et indépendant. - Tous les composants complexes sont accompagnés de commentaires de type "header" expliquant précisément la logique métier, les interfaces sont clairement définies et indépendantes des couches externes.

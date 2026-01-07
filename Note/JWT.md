@@ -7,10 +7,10 @@
 -   [PortSwigger - Web Security JWT](https://portswigger.net/web-security/jwt)
 
 ## Exercises:
-
--   JWT - Unsecure File Signature
--   JWT - Revoked Token
--   JWT - Weak Secret
+-  [[JWT - Introduction]]
+-  [[JWT - Jeton révoqué]]
+-  [[JWT - Secret faible]]
+-  [[JWT - Unsecure File Signature]]
 
 ## Summary:
 
@@ -53,11 +53,11 @@ if there is a login form.
 
 ### JWT Authentication Flow
 
-![alt text](../image/JWT.png "Logo Title Text 1")
+![alt text](JWT.png "Logo Title Text 1")
 
 ### How to implement the middleware:
 
-```csharp
+```csharp[code]
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 
 // Configuration du middleware JWT
@@ -103,11 +103,11 @@ app.UseAuthorization();
 -   [JWT.io - Introduction](https://jwt.io/introduction)
 -   [PortSwigger - Web Security JWT](https://portswigger.net/web-security/jwt)
 
-## Exercice :
-
--   JWT - Unsecure File Signature
--   JWT - Jeton révoqué
--   JWT - Secret faible
+## Exercises:
+-  [[JWT - Introduction]]
+-  [[JWT - Jeton révoqué]]
+-  [[JWT - Secret faible]]
+-  [[JWT - Unsecure File Signature]]
 
 ## Résumé :
 
@@ -152,7 +152,7 @@ en place (ou équivalent) s'il y a un formulaire de connexion.
 
 ### Flux d'authentification avec JWT
 
-![alt text](../image/JWT.png "Logo Title Text 1")
+![alt text](JWT.png "Logo Title Text 1")
 
 ### Comment implémenter le middleware :
 

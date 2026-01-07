@@ -76,8 +76,8 @@ app.
 
 ### React Vite Project Structure
 
-![alt text](../image/source1.png "Logo Title Text 1")
-![alt text](../image/source2.png "Logo Title Text 1")
+![alt text](source1.png "Logo Title Text 1")
+![alt text](source2.png "Logo Title Text 1")
 
 ### Command to Create a Project:
 
@@ -164,8 +164,8 @@ voir les erreurs avant même de lancer l'application.
 
 ### Structure d'un projet React Vite
 
-![alt text](../image/source1.png "Logo Title Text 1")
-![alt text](../image/source2.png "Logo Title Text 1")
+![alt text](source1.png "Logo Title Text 1")
+![alt text](source2.png "Logo Title Text 1")
 
 ### Commande pour créer un projet :
 
