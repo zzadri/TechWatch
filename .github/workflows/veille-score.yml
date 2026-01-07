@@ -24,6 +24,16 @@ jobs:
 
       - run: pip install pyyaml requests
 
+      - name: Debug - list Veille markdown files
+        run: |
+          echo "PWD=$(pwd)"
+          ls -la
+          echo "---- Veille tree (first 200 lines) ----"
+          find Veille -type f -name "*.md" | head -n 200 || true
+          echo "---- note fields (first 50) ----"
+          grep -R --line-number -E "^[[:space:]]*note:" Veille | head -n 50 || true
+
+
       - name: Run triage
         env:
           GH_TOKEN: ${{ secrets.GH_PAT || github.token }}
