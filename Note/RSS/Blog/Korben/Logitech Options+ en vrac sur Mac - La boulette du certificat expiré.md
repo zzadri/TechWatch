@@ -1,15 +1,20 @@
 ---
 title: "Logitech Options+ en vrac sur Mac - La boulette du certificat expiré"
-author: Korben
+author: "Korben"
 date: Wed, 07 Jan 2026 13:08:30 +0100
 type: site
-subject: 
-category: IT
+subject:
+category:
+  - "apple-mobile/macos"
+  - "cybersecurite/actualites-securite"
+  - "bug"
+  - "certificat"
+  - "Logitech"
+  - "macOS Big Sur"
 rss-source: Blog
 url: https://korben.info/logitech-options-mac-certificat-expire.html
 seen: false
 ---
-
 
 <p>Vous le savez, j'aime bien mon petit matos Logitech, surtout la gamme MX qui sauve pas mal de poignets de développeurs. Mais alors là, ce qui arrive aux utilisateurs de Mac, c'est hyper relou.</p>
 <p>Si vous avez essayé de lancer <strong>Logitech Options+</strong> ce matin sur votre bécane à la pomme, vous avez sûrement eu droit à un message d'erreur bien sec de macOS vous expliquant que l'application ne peut pas être ouverte. Et non, c'est pas votre installation qui a sauté d'un coup sans prévenir.</p>

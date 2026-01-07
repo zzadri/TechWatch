@@ -1,15 +1,18 @@
 ---
 title: "Des lunettes autofocus qui rendent les verres progressifs inutiles"
-author: Korben
+author: "Korben"
 date: Tue, 06 Jan 2026 15:44:18 +0100
 type: site
-subject: 
-category: IT
+subject:
+category:
+  - "actualites-business/startups-business"
+  - "hardware-diy/gadgets-crowdfunding"
+  - "lunettes"
+  - "wearable"
 rss-source: Blog
 url: https://korben.info/lunettes-autofocus-ixi-presbytie-cristaux-liquides.html
 seen: false
 ---
-
 
 <p>Vous portez des verres progressifs mais le truc relou c'est que ça vous oblige à pencher la tête dans tous les sens pour lire le menu au resto ou regarder votre écran... Alors ça tombe bien puisqu'une startup finlandaise vient de trouver LA solution pour nous débarrasser de cette galère.</p>
 <p>En effet, IXI (anciennement Pixieray) a développé des lunettes autofocus qui font la mise au point toutes seules en fonction de ce que vous regardez. Le concept existe depuis un moment dans les labos, mais ça a été suffisamment miniaturisé pour ne rajouter que quelques grammes à des montures qui ressemblent à de vraies lunettes, et pas à un casque de réalité virtuelle.</p>

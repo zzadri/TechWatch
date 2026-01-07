@@ -1,15 +1,19 @@
 ---
 title: "DoNotNotify - Reprenez le contrôle de vos notifications Android"
-author: Korben
+author: "Korben"
 date: Tue, 06 Jan 2026 11:29:51 +0100
 type: site
-subject: 
-category: IT
+subject:
+category:
+  - "apple-mobile/android"
+  - "tutoriels-guides/astuces-productivite"
+  - "Android"
+  - "notifications"
+  - "protection de la vie privée"
 rss-source: Blog
 url: https://korben.info/donotnotify-bloquer-notifications-android.html
 seen: false
 ---
-
 
 <p>Vous le savez, les notifications sur Android c'est devenu n'importe quoi. Entre les promos, les rappels débiles et les alertes dont vous n'avez strictement rien à foutre, votre téléphone vibre plus qu'un marteau-piqueur ou que le jouet préféré de votre sœur. Et les options natives d'Android pour gérer tout ça ? Bof, c'est du tout ou rien.</p>
 <p>Bref, c'est là qu'arrive <strong>DoNotNotify</strong>, un petit pare-feu pour vos alertes qui fait exactement ce que son nom indique.</p>

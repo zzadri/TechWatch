@@ -1,15 +1,22 @@
 ---
 title: "TermsTooLong - L'outil qui note les CGU que vous ne lisez jamais"
-author: Korben
+author: "Korben"
 date: Tue, 06 Jan 2026 11:39:05 +0100
 type: site
-subject: 
-category: IT
+subject:
+category:
+  - "actualites-business/legislation-juridique"
+  - "cybersecurite/outils-securite"
+  - "vie-privee-anonymat"
+  - "analyse juridique"
+  - "CGU"
+  - "données personnelles"
+  - "terms of service"
+  - "vie privée"
 rss-source: Blog
 url: https://korben.info/termstoolong-cgu-trop-longues.html
 seen: false
 ---
-
 
 <p>Pour une fois dans votre vie, soyez honnêtes !! Je le sais, vous le savez, PERSONNE ne lit les conditions d'utilisation. On clique sur &quot;J'accepte&quot; comme des automates, et on file nos données personnelles sans même savoir ce qu'on signe. Perso, la dernière fois que j'ai lu des CGU en entier, c'était... celles de hotmail.com en 1996.</p>
 <p>Et c'est exactement pour ça que <strong>

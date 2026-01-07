@@ -1,15 +1,19 @@
 ---
 title: "ContainerNursery - Mettez vos conteneurs Docker en veille et réveillez-les sur demande"
-author: Korben
+author: "Korben"
 date: Wed, 07 Jan 2026 15:18:53 +0100
 type: site
-subject: 
-category: IT
+subject:
+category:
+  - "developpement/devops-infrastructure"
+  - "linux-open-source/self-hosting"
+  - "Docker"
+  - "open source"
+  - "recrutement développeurs"
 rss-source: Blog
 url: https://korben.info/containernursery-mise-veille-conteneurs-docker.html
 seen: false
 ---
-
 
 <p>Voilà un outil qui va faire plaisir aux possesseurs de homelabs qui surveillent leur consommation de ressources comme le lait sur le feu !</p>
 <p>Car si vous êtes comme moi, vous avez probablement <strong>une ribambelle de conteneurs qui tournent H24</strong> sur votre bécane. Et je vous raconte pas tous ceux qui tournent alors que je m'en sers qu'une fois par an... breeeef...</p>

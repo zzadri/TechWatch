@@ -1,15 +1,16 @@
 ---
 title: "NotebookLM - Comment discuter avec vos experts préférés sans y passer des heures"
-author: Korben
+author: "Korben"
 date: Wed, 07 Jan 2026 12:55:06 +0100
 type: site
-subject: 
-category: IT
+subject:
+category:
+  - "intelligence-artificielle/chatbots-llm"
+  - "tutoriels-guides/astuces-productivite"
 rss-source: Blog
 url: https://korben.info/notebooklm-web-importer.html
 seen: false
 ---
-
 
 <p>Bon, je ne vais pas vous refaire le topo sur
 <a href="https://notebooklm.google/">NotebookLM</a>

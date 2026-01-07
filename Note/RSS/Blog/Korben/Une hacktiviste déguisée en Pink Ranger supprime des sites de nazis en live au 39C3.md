@@ -1,15 +1,22 @@
 ---
 title: "Une hacktiviste déguisée en Pink Ranger supprime des sites de nazis en live au 39C3"
-author: Korben
+author: "Korben"
 date: Tue, 06 Jan 2026 18:47:47 +0100
 type: site
-subject: 
-category: IT
+subject:
+category:
+  - "cybersecurite/actualites-securite"
+  - "cybersecurite/hackers-celebres"
+  - "39C3"
+  - "Chaos Computer Club"
+  - "DDoSecrets"
+  - "hacktivisme"
+  - "nazis"
+  - "WhiteDate"
 rss-source: Blog
 url: https://korben.info/hacktiviste-pink-ranger-supprime-sites-nazis-39c3.html
 seen: false
 ---
-
 
 <p>Vous savez ce qui est encore mieux qu'un bon film de super-héros ?</p>
 <p>Une hacktiviste déguisée en Pink Ranger des Power Rangers qui supprime en direct des sites de nazis devant une salle comble de hackers en délire. Et ce moment de liesse s'est passé fin décembre au

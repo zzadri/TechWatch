@@ -1,15 +1,21 @@
 ---
 title: "n8n - Une faille RCE critique (CVSS 10.0) qui va vous faire transpirer"
-author: Korben
+author: "Korben"
 date: Wed, 07 Jan 2026 16:23:35 +0100
 type: site
-subject: 
-category: IT
+subject:
+category:
+  - "cybersecurite/failles-vulnerabilites"
+  - "intelligence-artificielle/automatisation-ia"
+  - "automatisation"
+  - "faille de sécurité"
+  - "n8n"
+  - "vulnérabilité"
+  - "vulnérabilité RCE"
 rss-source: Blog
 url: https://korben.info/n8n-faille-securite-rce-critique.html
 seen: false
 ---
-
 
 <p>Avis aux utilisateurs de <strong>n8n</strong>, j'ai une bonne et une mauvaise nouvelle à vous annoncer.</p>
 <p>Non, je déconne, je n'ai qu'une mauvaise nouvelle à vous annoncer, et malheureusement, elle est du genre à vous faire lâcher votre café direct sur votre clavier mécanique de hipster.</p>

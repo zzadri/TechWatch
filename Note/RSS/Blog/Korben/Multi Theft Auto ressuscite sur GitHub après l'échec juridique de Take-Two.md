@@ -1,15 +1,21 @@
 ---
 title: "Multi Theft Auto ressuscite sur GitHub après l'échec juridique de Take-Two"
-author: Korben
+author: "Korben"
 date: Wed, 07 Jan 2026 13:34:38 +0100
 type: site
-subject: 
-category: IT
+subject:
+category:
+  - "actualites-business/legislation-juridique"
+  - "jeux-video/retrogaming-emulation"
+  - "DMCA"
+  - "GTA"
+  - "modding"
+  - "open source"
+  - "Take-Two"
 rss-source: Blog
 url: https://korben.info/multi-theft-auto-github-take-two.html
 seen: false
 ---
-
 
 <p>Et voici que voilà que voici le grand retour de <strong>
 <a href="https://multitheftauto.com/">Multi Theft Auto sur GitHub</a>

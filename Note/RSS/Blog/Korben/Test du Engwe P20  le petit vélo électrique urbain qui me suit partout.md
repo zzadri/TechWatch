@@ -1,15 +1,19 @@
 ---
 title: "Test du Engwe P20 : le petit vélo électrique urbain qui me suit partout"
-author: Korben
+author: "Korben"
 date: Tue, 06 Jan 2026 17:35:55 +0100
 type: site
-subject: 
-category: IT
+subject:
+category:
+  - "hardware-diy/gadgets-crowdfunding"
+  - "robots-drones-vehicules/mobilite-urbaine"
+  - "engwe"
+  - "vélo"
+  - "veloelectrique"
 rss-source: Blog
 url: https://korben.info/test-du-engwe-p20-le-petit-velo-electrique-urbain-qui-me-suit-partout.html
 seen: false
 ---
-
 
 <p>– Article invité, rédigé par Vincent Lautier, contient des liens affiliés Amazon –</p>
 <p>Et bien écoutez, on va commencer par vous souhaiter la bonne année. Avec amour, gloire, argent, mais aussi santé. Et du coup je vais peut-être vous y aider, en vous évitant de prendre la voiture tout le temps pour aller bosser ou aller à la boulangerie.</p>

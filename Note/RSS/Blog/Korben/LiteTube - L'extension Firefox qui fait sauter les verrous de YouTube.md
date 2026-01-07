@@ -1,15 +1,22 @@
 ---
 title: "LiteTube - L'extension Firefox qui fait sauter les verrous de YouTube"
-author: Korben
+author: "Korben"
 date: Tue, 06 Jan 2026 11:19:00 +0100
 type: site
-subject: 
-category: IT
+subject:
+category:
+  - "tutoriels-guides/astuces-productivite"
+  - "vie-privee-anonymat"
+  - "adblock"
+  - "extension"
+  - "Firefox"
+  - "protection vie privée"
+  - "SponsorBlock"
+  - "YouTube"
 rss-source: Blog
 url: https://korben.info/litetube-extension-firefox-youtube-sans-pub.html
 seen: false
 ---
-
 
 <p>Si vous passez un temps de fou sur YouTube et que vous en avez marre de vous faire traiter comme un criminel par Google parce que vous utilisez un bloqueur de pubs, j'ai peut-être trouvé la parade.</p>
 <p>En effet, depuis fin 2023,

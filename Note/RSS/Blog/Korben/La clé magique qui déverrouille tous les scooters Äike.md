@@ -1,15 +1,21 @@
 ---
 title: "La clé magique qui déverrouille tous les scooters Äike"
-author: Korben
+author: "Korben"
 date: Tue, 06 Jan 2026 18:38:21 +0100
 type: site
-subject: 
-category: IT
+subject:
+category:
+  - "cybersecurite/failles-vulnerabilites"
+  - "cybersecurite/hacking-pentest"
+  - "Bluetooth"
+  - "faille"
+  - "IoT"
+  - "reverse engineering"
+  - "scooter électrique"
 rss-source: Blog
 url: https://korben.info/aike-scooter-bluetooth-cle-universelle-faille.html
 seen: false
 ---
-
 
 <p>Vous connaissez le concept de clé maître ? Hé bien Rasmus Moorats, un chercheur en sécurité estonien, vient d'en trouver une qui déverrouille l'intégralité du parc de scooters électriques <strong>Äike</strong>. Et vous vous en doutez, c'est pas vraiment ce que le fabricant avait prévu.</p>
 <p>Le bougre a décidé de reverse-engineerer son propre deux-roues connecté après que la boîte ait fait faillite en 2025. Logique, quand le cloud menace de fermer, autant comprendre comment fonctionne sa bécane. Du coup il a décompilé l'app React Native, hooké les communications Bluetooth avec Frida, et là... surprise !</p>

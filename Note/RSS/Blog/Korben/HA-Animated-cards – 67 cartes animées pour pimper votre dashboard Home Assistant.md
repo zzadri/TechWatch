@@ -1,15 +1,19 @@
 ---
 title: "HA-Animated-cards – 67 cartes animées pour pimper votre dashboard Home Assistant"
-author: Korben
+author: "Korben"
 date: Wed, 07 Jan 2026 10:42:36 +0100
 type: site
-subject: 
-category: IT
+subject:
+category:
+  - "developpement/outils-developpement"
+  - "linux-open-source/self-hosting"
+  - "domotique"
+  - "Home Assistant"
+  - "smart home"
 rss-source: Blog
 url: https://korben.info/ha-animated-cards-home-assistant.html
 seen: false
 ---
-
 
 <p>Après les thèmes sombres, après les cartes Mushroom, après les mini-graphs, voici les
 <a href="https://github.com/Anashost/HA-Animated-cards">HA-Animated-cards</a>

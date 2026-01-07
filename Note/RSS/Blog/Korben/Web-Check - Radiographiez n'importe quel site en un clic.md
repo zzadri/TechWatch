@@ -1,15 +1,19 @@
 ---
 title: "Web-Check - Radiographiez n'importe quel site en un clic"
-author: Korben
+author: "Korben"
 date: Tue, 06 Jan 2026 17:58:33 +0100
 type: site
-subject: 
-category: IT
+subject:
+category:
+  - "cybersecurite"
+  - "cybersecurite/outils-securite"
+  - "hacking"
+  - "open source"
+  - "sécurité"
 rss-source: Blog
 url: https://korben.info/web-check-outil-osint-analyse-site-securite.html
 seen: false
 ---
-
 
 <p>Vous vous êtes déjà demandé ce que cache vraiment un site web ? Genre, au-delà de sa jolie façade ? Hé bien je vous présente
 <a href="https://github.com/Lissy93/web-check">Web-Check</a>

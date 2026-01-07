@@ -1,15 +1,18 @@
 ---
 title: "Arbeiter - Le jeu de survie où votre pire ennemi est votre patron (et votre loyer)"
-author: Korben
+author: "Korben"
 date: Wed, 07 Jan 2026 12:34:13 +0100
 type: site
-subject: 
-category: IT
+subject:
+category:
+  - "actualites-business/insolite-wtf"
+  - "jeux-video/actualites-gaming"
+  - "jeu de simulation"
+  - "simulation"
 rss-source: Blog
 url: https://korben.info/arbeiter-jeu-survie-travail.html
 seen: false
 ---
-
 
 <p>Vous en avez marre d'incarner des héros invincibles qui sauvent la galaxie avant le petit-déj et vous trouvez que votre vie n'est pas assez merdique ? Et bien, j'ai exactement ce qu'il vous faut !</p>
 <p>Ça s'appelle <strong>

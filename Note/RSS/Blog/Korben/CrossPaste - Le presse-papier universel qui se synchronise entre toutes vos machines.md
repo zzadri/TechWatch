@@ -1,15 +1,24 @@
 ---
 title: "CrossPaste - Le presse-papier universel qui se synchronise entre toutes vos machines"
-author: Korben
+author: "Korben"
 date: Wed, 07 Jan 2026 09:00:00 +0100
 type: site
-subject: 
-category: IT
+subject:
+category:
+  - "developpement/outils-developpement"
+  - "linux-open-source/logiciels-libres"
+  - "vie-privee-anonymat/chiffrement"
+  - "chiffrement"
+  - "Kotlin"
+  - "LAN"
+  - "multiplateforme"
+  - "open source"
+  - "presse-papier"
+  - "synchronisation"
 rss-source: Blog
 url: https://korben.info/crosspaste-presse-papier-synchronisation-multi-app.html
 seen: false
 ---
-
 
 <p>Vous connaissez ce moment relou où vous copiez un truc sur votre PC et vous vous retrouvez comme un idiot devant votre Mac parce que le presse-papier ne suit pas ? Hé bien y'a une solution open source qui règle ce problème, et elle s'appelle
 <a href="https://github.com/crosspaste/crosspaste-desktop">CrossPaste</a>

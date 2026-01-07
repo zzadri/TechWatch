@@ -1,15 +1,20 @@
 ---
 title: "Test de l’enceinte Teufel Boomster 4 : grosse autonomie, radio DAB, super son, super prix… et une petite astuce en bonus !"
-author: Korben
+author: "Korben"
 date: Wed, 07 Jan 2026 14:38:48 +0100
 type: site
-subject: 
-category: IT
+subject:
+category:
+  - "hardware-diy"
+  - "multimedia-culture"
+  - "AirPlay"
+  - "Bluetooth"
+  - "enceinte"
+  - "teufel"
 rss-source: Blog
 url: https://korben.info/test-de-lenceinte-teufel-boomster-4-grosse-autonomie-radio-dab-super-son-super-prix-et-une-petite-astuce-en-bonus.html
 seen: false
 ---
-
 
 <p>– Article invité, rédigé par Vincent Lautier, contient des liens affiliés Amazon –</p>
 <p>Si vous traînez souvent dans l'univers de l'audio nomade, vous savez que Teufel n'est pas là pour faire de la figuration. La marque berlinoise a décidé de remettre au goût du jour un de ses produits classiques avec la <strong>

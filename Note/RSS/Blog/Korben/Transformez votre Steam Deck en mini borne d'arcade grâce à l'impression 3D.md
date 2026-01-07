@@ -1,15 +1,22 @@
 ---
 title: "Transformez votre Steam Deck en mini borne d'arcade grâce à l'impression 3D"
-author: Korben
+author: "Korben"
 date: Wed, 07 Jan 2026 09:01:09 +0100
 type: site
-subject: 
-category: IT
+subject:
+category:
+  - "hardware-diy/impression-3d"
+  - "jeux-video/retrogaming-emulation"
+  - "3d"
+  - "arcade"
+  - "borne arcade"
+  - "Borne d'arcade DIY"
+  - "rétro gaming"
+  - "steam deck"
 rss-source: Blog
 url: https://korben.info/steam-deck-mini-arcade-borne-impression-3d.html
 seen: false
 ---
-
 
 <p>Vous avez une imprimante 3D qui prend la poussière et un Steam Deck qui traîne sur le canapé ? Tom Patty vient de publier sur MakerWorld un projet qui va vous réconcilier avec les deux. L'idée c'est de transformer la console portable de Valve en mini borne d'arcade avec un vrai joystick et de vrais boutons, comme dans les salles de notre jeunesse (oui je suis vieux, je sais).</p>
 <p>Le projet s'appelle <strong>

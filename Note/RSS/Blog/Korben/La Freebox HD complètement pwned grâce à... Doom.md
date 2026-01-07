@@ -1,15 +1,22 @@
 ---
 title: "La Freebox HD complètement pwned grâce à... Doom"
-author: Korben
+author: "Korben"
 date: Wed, 07 Jan 2026 09:51:52 +0100
 type: site
-subject: 
-category: IT
+subject:
+category:
+  - "cybersecurite/failles-vulnerabilites"
+  - "cybersecurite/hacking-pentest"
+  - "0-day"
+  - "39C3"
+  - "Doom"
+  - "Free"
+  - "Freebox HD"
+  - "hack"
 rss-source: Blog
 url: https://korben.info/freebox-hd-hack-39c3-0day-doom.html
 seen: false
 ---
-
 
 <p>Enorme nouvelle pour tous les amateurs de rétro-ingénierie et très mauvaise nouvelle pour Free ! Au 39C3 (le Chaos Communication Congress de cette année), un chercheur français du nom de Frédéric Hoguin (que je salue) a présenté un talk absolument dingue sur le hack de la <strong>Freebox HD</strong>. Et tenez-vous bien, l'une des failles utilisées se trouve dans... le port de Doom intégré à la box !</p>
 <p>Pour la petite histoire, la Freebox HD c'est ce bon vieux boîtier décodeur que Free a sorti en 2006. Bientôt 20 ans au compteur et toujours maintenue jusqu'à fin 2025. Du coup, Frédéric s'est dit que ça ferait un super terrain de jeu pour du reverse engineering à l'ancienne. Et là, il a découvert deux failles 0-day qui permettent de prendre le contrôle total de la box.</p>

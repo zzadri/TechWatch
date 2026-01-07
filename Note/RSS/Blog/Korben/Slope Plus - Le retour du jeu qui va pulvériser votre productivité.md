@@ -1,15 +1,19 @@
 ---
 title: "Slope Plus - Le retour du jeu qui va pulvériser votre productivité"
-author: Korben
+author: "Korben"
 date: Wed, 07 Jan 2026 13:25:40 +0100
 type: site
-subject: 
-category: IT
+subject:
+category:
+  - "actualites-business/insolite-wtf"
+  - "jeux-video/retrogaming-emulation"
+  - "arcade"
+  - "jeu de simulation"
+  - "simulation"
 rss-source: Blog
 url: https://korben.info/slope-plus-jeu-adresse-navigateur.html
 seen: false
 ---
-
 
 <p>Vous vous souvenez de ces après-midi au CDI à essayer de battre le record de votre pote sur des jeux Flash, en priant pour que la documentaliste ne regarde pas votre écran ? Si vous avez connu cette époque bénie (ou si vous cherchez juste un moyen efficace de ruiner votre productivité du jour), j'ai ce qu'il vous faut.</p>
 <p>Ça s'appelle <strong>
