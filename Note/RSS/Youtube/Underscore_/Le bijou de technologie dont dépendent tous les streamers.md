@@ -1,9 +1,9 @@
 ---
-title: Le bijou de technologie dont dépendent tous les streamers
+title: "Le bijou de technologie dont dépendent tous les streamers"
 author: Underscore_
 date: 2025-12-31T17:18:11.000Z
 type: video
-subject:
+subject: 
 category: IT
 rss-source: Youtube
 url: http://www.youtube.com/feeds/videos.xml?playlist_id=UULFWedHS9qKebauVIK2J7383g
