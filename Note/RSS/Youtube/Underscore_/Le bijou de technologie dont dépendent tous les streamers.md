@@ -7,7 +7,7 @@ subject:
 category: IT
 rss-source: Youtube
 url: http://www.youtube.com/feeds/videos.xml?playlist_id=UULFWedHS9qKebauVIK2J7383g
-seen: true
+seen: false
 ---
 [Channel Link]((http://www.youtube.com/feeds/videos.xml?playlist_id=UULFWedHS9qKebauVIK2J7383g)
 ![Le bijou de technologie dont dépendent tous les streamers](https://www.youtube.com/watch?v=rgE8XSS-sTM)
