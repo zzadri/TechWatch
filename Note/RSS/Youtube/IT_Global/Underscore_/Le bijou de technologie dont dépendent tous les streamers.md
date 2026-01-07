@@ -8,7 +8,7 @@ category: IT
 tags:
 rss-source: Youtube
 url: http://www.youtube.com/feeds/videos.xml?playlist_id=UULFWedHS9qKebauVIK2J7383g
-note: 5
+note: 0
 seen: false
 ---
 [Channel Link]((http://www.youtube.com/feeds/videos.xml?playlist_id=UULFWedHS9qKebauVIK2J7383g)
