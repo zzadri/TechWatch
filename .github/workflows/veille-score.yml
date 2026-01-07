@@ -38,5 +38,13 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_PAT || github.token }}
           GITHUB_REPO: ${{ github.repository }}
-          DEFAULT_ASSIGNEE: "TonLoginGitHub"
+          DEFAULT_ASSIGNEE: ${{ github.actor }}
         run: python .github/scripts/veille_triage.py
+
+      - name: Debug - list note fields
+        run: |
+          echo "---- md files ----"
+          find Note -type f -name "*.md" | head -n 200 || true
+          echo "---- note fields ----"
+          grep -R --line-number -E "^[[:space:]]*note:" Note | head -n 50 || true
+

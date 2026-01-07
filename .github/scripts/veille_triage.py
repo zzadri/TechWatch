@@ -69,7 +69,7 @@ def close_issue(issue_url):
     gh_api("PATCH", issue_url, json={"state": "closed"})
 
 def main():
-    md_files = glob.glob("Veille/**/*.md", recursive=True)
+    md_files = glob.glob("Note/**/*.md", recursive=True)
 
     for path in md_files:
         with open(path, "r", encoding="utf-8") as f:
