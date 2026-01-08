@@ -1,21 +1,21 @@
 ---
-title: "MTV Rewind - Le retour de la vraie MTV des années 80-90"
-author: "Korben"
+title: MTV Rewind - Le retour de la vraie MTV des années 80-90
+author: Korben
 date: 2026-01-07T20:58:11.000Z
 type: site
 subject:
 category: IT Global
 tags:
-  - "multimedia-culture/culture-geek"
-  - "multimedia-culture/streaming-video"
-  - "clips vidéo"
-  - "le-retro"
-  - "MTV"
-  - "MTV Rewind"
-  - "nostalgie"
+  - multimedia-culture/culture-geek
+  - multimedia-culture/streaming-video
+  - clips vidéo
+  - le-retro
+  - MTV
+  - MTV Rewind
+  - nostalgie
 rss-source: Blog
 url: https://korben.info/mtv-rewind-music-video-channel-tribute.html
-note: 0
+note: 3.5
 seen: false
 ---
 
