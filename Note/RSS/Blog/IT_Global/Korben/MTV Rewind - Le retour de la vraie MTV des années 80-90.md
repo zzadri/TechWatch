@@ -15,7 +15,7 @@ tags:
   - nostalgie
 rss-source: Blog
 url: https://korben.info/mtv-rewind-music-video-channel-tribute.html
-note: 3.5
+note: 0
 seen: false
 ---
 
