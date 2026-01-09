@@ -1,5 +1,5 @@
 ---
-title: "Qu’est-ce qui cloche avec ces lunettes Meta "révolutionnaires" ?"
+title: Qu’est-ce qui cloche avec ces lunettes Meta "révolutionnaires" ?
 author: Underscore_
 date: 2025-11-20T15:28:05.000Z
 type: video
