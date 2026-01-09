@@ -8,7 +8,7 @@ category: IT Global
 tags:
   - "intelligence-artificielle/chatbots-llm"
   - "tutoriels-guides/astuces-productivite"
-rss-source: Blog
+rss_source: Blog
 url: https://korben.info/notebooklm-web-importer.html
 note: 0
 seen: false

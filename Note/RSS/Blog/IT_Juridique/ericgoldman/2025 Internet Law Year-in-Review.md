@@ -12,7 +12,7 @@ tags:
   - "E-Commerce"
   - "Licensing/Contracts"
   - "Privacy/Security"
-rss-source: Blog
+rss_source: Blog
 url: https://blog.ericgoldman.org/archives/2026/01/2025-internet-law-year-in-review.htm
 note: 0
 seen: false

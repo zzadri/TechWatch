@@ -1,20 +1,20 @@
 ---
-title: Slop Evader - L'extension qui filtre le contenu IA de vos recherches
-author: Korben
+title: "Slop Evader - L'extension qui filtre le contenu IA de vos recherches"
+author: "Korben"
 date: 2026-01-08T08:00:00.000Z
 type: site
 subject:
 category: IT Global
 tags:
-  - intelligence-artificielle/actualites-ia
-  - actualité
-  - Firefox
-  - IA
-  - innovation
-  - tech
-rss-source: Blog
+  - "intelligence-artificielle/actualites-ia"
+  - "actualité"
+  - "Firefox"
+  - "IA"
+  - "innovation"
+  - "tech"
+rss_source: Blog
 url: https://korben.info/slop-evader-extension-chrome.html
-note: 3.5
+note: 0
 seen: false
 ---
 

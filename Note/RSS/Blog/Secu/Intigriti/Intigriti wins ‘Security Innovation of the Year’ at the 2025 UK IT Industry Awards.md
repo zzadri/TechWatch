@@ -7,7 +7,7 @@ subject:
 category: Sécurité IT, hacking
 tags:
   - "Awards"
-rss-source: Blog
+rss_source: Blog
 url: https://www.intigriti.com/blog/awards/intigriti-wins-security-innovation-of-the-year-at-the-2025-uk-it-industry-awards
 note: 0
 seen: false

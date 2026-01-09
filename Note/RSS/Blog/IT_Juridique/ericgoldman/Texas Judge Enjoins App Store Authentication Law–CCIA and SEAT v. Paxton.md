@@ -8,7 +8,7 @@ category: juridique, IT
 tags:
   - "Content Regulation"
   - "E-Commerce"
-rss-source: Blog
+rss_source: Blog
 url: https://blog.ericgoldman.org/archives/2025/12/texas-judge-enjoins-app-store-authentication-law-ccia-and-seat-v-paxton.htm
 note: 0
 seen: false

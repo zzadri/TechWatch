@@ -7,7 +7,7 @@ subject:
 category: Sécurité IT, hacking
 tags:
   - "Business Insights"
-rss-source: Blog
+rss_source: Blog
 url: https://www.intigriti.com/blog/business-insights/at-the-forefront-of-ethical-hacking-what-s-intigriti-s-impact-and-position
 note: 0
 seen: false

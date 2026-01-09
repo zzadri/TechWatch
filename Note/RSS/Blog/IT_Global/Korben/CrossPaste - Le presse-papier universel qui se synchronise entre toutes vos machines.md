@@ -16,7 +16,7 @@ tags:
   - "open source"
   - "presse-papier"
   - "synchronisation"
-rss-source: Blog
+rss_source: Blog
 url: https://korben.info/crosspaste-presse-papier-synchronisation-multi-app.html
 note: 0
 seen: false

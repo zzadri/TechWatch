@@ -13,7 +13,7 @@ tags:
   - "modding"
   - "open source"
   - "Take-Two"
-rss-source: Blog
+rss_source: Blog
 url: https://korben.info/multi-theft-auto-github-take-two.html
 note: 0
 seen: false

@@ -13,7 +13,7 @@ tags:
   - "n8n"
   - "vulnérabilité"
   - "vulnérabilité RCE"
-rss-source: Blog
+rss_source: Blog
 url: https://korben.info/n8n-faille-securite-rce-critique.html
 note: 0
 seen: false

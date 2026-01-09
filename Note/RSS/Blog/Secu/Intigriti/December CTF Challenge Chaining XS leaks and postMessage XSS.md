@@ -7,7 +7,7 @@ subject:
 category: Sécurité IT, hacking
 tags:
   - "Hacking Tools"
-rss-source: Blog
+rss_source: Blog
 url: https://www.intigriti.com/researchers/blog/hacking-tools/december-ctf-challenge-xs-leaks-postmessage-xss
 note: 0
 seen: false

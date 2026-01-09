@@ -6,10 +6,10 @@ type: video
 subject: 
 category: IT
 tags:
-rss-source: Youtube
+rss_source: Youtube
 url: http://www.youtube.com/feeds/videos.xml?playlist_id=UULFWedHS9qKebauVIK2J7383g
 note: 0
 seen: false
 ---
-[Channel Link]((http://www.youtube.com/feeds/videos.xml?playlist_id=UULFWedHS9qKebauVIK2J7383g)
+[Channel Link]()
 ![Un arnaqueur pro nous dévoile les pires scams de 2025](https://www.youtube.com/watch?v=F6V3jipo3y4)

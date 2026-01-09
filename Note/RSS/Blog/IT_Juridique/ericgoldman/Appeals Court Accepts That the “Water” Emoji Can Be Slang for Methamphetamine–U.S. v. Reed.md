@@ -7,7 +7,7 @@ subject:
 category: juridique, IT
 tags:
   - "Emojis"
-rss-source: Blog
+rss_source: Blog
 url: https://blog.ericgoldman.org/archives/2025/12/appeals-court-accepts-that-the-water-emoji-can-be-slang-for-methamphetamine-u-s-v-reed.htm
 note: 0
 seen: false

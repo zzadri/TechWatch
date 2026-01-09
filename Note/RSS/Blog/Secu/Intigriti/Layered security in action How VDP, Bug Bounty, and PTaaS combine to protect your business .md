@@ -7,7 +7,7 @@ subject:
 category: Sécurité IT, hacking
 tags:
   - "Business Insights"
-rss-source: Blog
+rss_source: Blog
 url: https://www.intigriti.com/blog/business-insights/layered-security-in-action-how-vdp-bug-bounty-and-ptaas-combine-to-protect-your-b
 note: 0
 seen: false

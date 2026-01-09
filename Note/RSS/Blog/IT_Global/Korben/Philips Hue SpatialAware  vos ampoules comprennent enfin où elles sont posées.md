@@ -11,7 +11,7 @@ tags:
   - "intelligence-artificielle/actualites-ia"
   - "API Philips Hue"
   - "hue"
-rss-source: Blog
+rss_source: Blog
 url: https://korben.info/philips-hue-spatialaware-vos-ampoules-comprennent-enfin-ou-elles-sont-posees.html
 note: 0
 seen: false

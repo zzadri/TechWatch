@@ -14,7 +14,7 @@ tags:
   - "Borne d'arcade DIY"
   - "rétro gaming"
   - "steam deck"
-rss-source: Blog
+rss_source: Blog
 url: https://korben.info/steam-deck-mini-arcade-borne-impression-3d.html
 note: 0
 seen: false

@@ -10,7 +10,7 @@ tags:
   - "Derivative Liability"
   - "Licensing/Contracts"
   - "Marketing"
-rss-source: Blog
+rss_source: Blog
 url: https://blog.ericgoldman.org/archives/2025/12/district-court-again-rejects-plaintiffs-attempts-to-manufacture-common-law-notice-and-takedown-duties-bogard-v-tiktok.htm
 note: 0
 seen: false

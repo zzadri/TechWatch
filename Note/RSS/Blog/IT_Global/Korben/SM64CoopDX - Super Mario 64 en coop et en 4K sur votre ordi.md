@@ -14,7 +14,7 @@ tags:
   - "sm64coopdx"
   - "Super Mario 64"
   - "Super Mario 64 multijoueur"
-rss-source: Blog
+rss_source: Blog
 url: https://korben.info/sm64coopdx-multiplayer-retro.html
 note: 0
 seen: false

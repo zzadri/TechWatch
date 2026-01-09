@@ -6,10 +6,10 @@ type: video
 subject: 
 category: IT
 tags:
-rss-source: Youtube
+rss_source: Youtube
 url: http://www.youtube.com/feeds/videos.xml?playlist_id=UULFWedHS9qKebauVIK2J7383g
 note: 0
 seen: false
 ---
-[Channel Link]((http://www.youtube.com/feeds/videos.xml?playlist_id=UULFWedHS9qKebauVIK2J7383g)
+[Channel Link]()
 ![Odoo: le géant à 12 millions d'utilisateurs que personne ne connait](https://www.youtube.com/watch?v=T3OLC_1_aHQ)

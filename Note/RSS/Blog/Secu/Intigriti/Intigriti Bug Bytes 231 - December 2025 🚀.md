@@ -7,7 +7,7 @@ subject:
 category: Sécurité IT, hacking
 tags:
   - "Bug Bytes"
-rss-source: Blog
+rss_source: Blog
 url: https://www.intigriti.com/researchers/blog/bug-bytes/intigriti-bug-bytes-231-december-2025
 note: 0
 seen: false

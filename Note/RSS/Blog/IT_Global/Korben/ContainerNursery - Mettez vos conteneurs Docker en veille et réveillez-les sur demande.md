@@ -11,7 +11,7 @@ tags:
   - "Docker"
   - "open source"
   - "recrutement développeurs"
-rss-source: Blog
+rss_source: Blog
 url: https://korben.info/containernursery-mise-veille-conteneurs-docker.html
 note: 0
 seen: false

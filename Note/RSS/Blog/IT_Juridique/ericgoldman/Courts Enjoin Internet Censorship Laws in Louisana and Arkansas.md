@@ -8,7 +8,7 @@ category: juridique, IT
 tags:
   - "Content Regulation"
   - "Derivative Liability"
-rss-source: Blog
+rss_source: Blog
 url: https://blog.ericgoldman.org/archives/2025/12/courts-enjoin-internet-censorship-laws-in-louisana-and-arkansas.htm
 note: 0
 seen: false

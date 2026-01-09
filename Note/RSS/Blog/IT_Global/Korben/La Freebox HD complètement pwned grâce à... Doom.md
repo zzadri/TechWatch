@@ -14,7 +14,7 @@ tags:
   - "Free"
   - "Freebox HD"
   - "hack"
-rss-source: Blog
+rss_source: Blog
 url: https://korben.info/freebox-hd-hack-39c3-0day-doom.html
 note: 0
 seen: false

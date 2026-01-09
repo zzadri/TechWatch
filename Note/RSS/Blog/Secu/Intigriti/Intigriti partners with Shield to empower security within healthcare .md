@@ -7,7 +7,7 @@ subject:
 category: Sécurité IT, hacking
 tags:
   - "News"
-rss-source: Blog
+rss_source: Blog
 url: https://www.intigriti.com/blog/news/intigriti-partners-with-shield-to-empower-security-within-healthcare
 note: 0
 seen: false

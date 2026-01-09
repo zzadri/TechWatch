@@ -7,7 +7,7 @@ subject:
 category: Sécurité IT, hacking
 tags:
   - "Business Insights"
-rss-source: Blog
+rss_source: Blog
 url: https://www.intigriti.com/blog/business-insights/cyber-awareness-month-vulnerabilities-beware-this-halloween
 note: 0
 seen: false

@@ -10,7 +10,7 @@ tags:
   - "jeux-video/actualites-gaming"
   - "jeu de simulation"
   - "simulation"
-rss-source: Blog
+rss_source: Blog
 url: https://korben.info/arbeiter-jeu-survie-travail.html
 note: 0
 seen: false

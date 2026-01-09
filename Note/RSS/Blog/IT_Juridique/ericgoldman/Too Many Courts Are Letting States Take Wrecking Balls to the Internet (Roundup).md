@@ -9,7 +9,7 @@ tags:
   - "Content Regulation"
   - "Derivative Liability"
   - "Licensing/Contracts"
-rss-source: Blog
+rss_source: Blog
 url: https://blog.ericgoldman.org/archives/2025/12/too-many-courts-are-letting-states-take-wrecking-balls-to-the-internet-roundup.htm
 note: 0
 seen: false

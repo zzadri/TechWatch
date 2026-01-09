@@ -7,7 +7,7 @@ subject:
 category: Sécurité IT, hacking
 tags:
   - "News"
-rss-source: Blog
+rss_source: Blog
 url: https://www.intigriti.com/blog/news/how-ai-is-leveraged-to-enhance-the-intigriti-platform
 note: 0
 seen: false

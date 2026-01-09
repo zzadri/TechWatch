@@ -12,7 +12,7 @@ tags:
   - "certificat"
   - "Logitech"
   - "macOS Big Sur"
-rss-source: Blog
+rss_source: Blog
 url: https://korben.info/logitech-options-mac-certificat-expire.html
 note: 0
 seen: false

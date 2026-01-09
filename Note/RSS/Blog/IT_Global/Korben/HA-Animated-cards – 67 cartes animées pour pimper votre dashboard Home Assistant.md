@@ -11,7 +11,7 @@ tags:
   - "domotique"
   - "Home Assistant"
   - "smart home"
-rss-source: Blog
+rss_source: Blog
 url: https://korben.info/ha-animated-cards-home-assistant.html
 note: 0
 seen: false

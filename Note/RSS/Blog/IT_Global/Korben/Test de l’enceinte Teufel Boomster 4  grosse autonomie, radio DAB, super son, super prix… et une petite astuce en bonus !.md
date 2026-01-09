@@ -12,7 +12,7 @@ tags:
   - "Bluetooth"
   - "enceinte"
   - "teufel"
-rss-source: Blog
+rss_source: Blog
 url: https://korben.info/test-de-lenceinte-teufel-boomster-4-grosse-autonomie-radio-dab-super-son-super-prix-et-une-petite-astuce-en-bonus.html
 note: 0
 seen: false

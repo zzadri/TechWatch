@@ -9,7 +9,7 @@ tags:
   - "Copyright"
   - "Derivative Liability"
   - "Marketing"
-rss-source: Blog
+rss_source: Blog
 url: https://blog.ericgoldman.org/archives/2026/01/dmca-512c-safe-harbor-applies-to-embedding-harrington-v-pinterest.htm
 note: 0
 seen: false

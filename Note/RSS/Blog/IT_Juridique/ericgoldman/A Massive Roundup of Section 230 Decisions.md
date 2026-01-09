@@ -13,7 +13,7 @@ tags:
   - "Publicity/Privacy Rights"
   - "Search Engines"
   - "Trademark"
-rss-source: Blog
+rss_source: Blog
 url: https://blog.ericgoldman.org/archives/2026/01/a-massive-roundup-of-section-230-decisions.htm
 note: 0
 seen: false

@@ -11,7 +11,7 @@ tags:
   - "arcade"
   - "jeu de simulation"
   - "simulation"
-rss-source: Blog
+rss_source: Blog
 url: https://korben.info/slope-plus-jeu-adresse-navigateur.html
 note: 0
 seen: false

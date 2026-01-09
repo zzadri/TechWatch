@@ -1,22 +1,22 @@
 ---
-title: BackupViz - Visualisez votre stratégie de sauvegarde et vérifiez la règle 3-2-1
-author: Korben
+title: "BackupViz - Visualisez votre stratégie de sauvegarde et vérifiez la règle 3-2-1"
+author: "Korben"
 date: 2026-01-08T07:45:03.000Z
 type: site
 subject:
 category: IT Global
 tags:
-  - developpement/devops-infrastructure
-  - developpement/outils-developpement
-  - backup
-  - NAS
-  - sauvegarde
-  - sauvegarde 3-2-1-1-0
-  - visualisation
-  - webapp
-rss-source: Blog
+  - "developpement/devops-infrastructure"
+  - "developpement/outils-developpement"
+  - "backup"
+  - "NAS"
+  - "sauvegarde"
+  - "sauvegarde 3-2-1-1-0"
+  - "visualisation"
+  - "webapp"
+rss_source: Blog
 url: https://korben.info/backupviz-visualisation-sauvegarde-3-2-1.html
-note: 5
+note: 0
 seen: false
 ---
 

@@ -9,7 +9,7 @@ tags:
   - "Copyright"
   - "Derivative Liability"
   - "Internet History"
-rss-source: Blog
+rss_source: Blog
 url: https://blog.ericgoldman.org/archives/2025/12/google-can-assert-a-dmca-512d-defense-cengage-v-google-catch-up-post.htm
 note: 0
 seen: false

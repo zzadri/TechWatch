@@ -10,7 +10,7 @@ tags:
   - "E-Commerce"
   - "Patents"
   - "Trademark"
-rss-source: Blog
+rss_source: Blog
 url: https://blog.ericgoldman.org/archives/2025/12/schedule-a-ten-notable-developments-in-2025-guest-blog-post.htm
 note: 0
 seen: false
